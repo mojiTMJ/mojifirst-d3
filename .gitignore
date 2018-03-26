@@ -1,2 +1,3 @@
-git rm --cached .idea
-git rm --cached .first-d3Env
+.*
+package-lock.json
+node_modules
